@@ -1,4 +1,3 @@
-# lovee_me_not-lyrics
 import tkinter as tk
 import time
 import random
